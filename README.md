@@ -10,3 +10,4 @@ Also, the training and test data is stored inside the image.
 
 ![image](https://github.com/merstoffe14/pyml-azure-deploy-test/assets/12138583/2e772c96-d41b-4b47-a757-7b12163835c0)
 
+There are peaks of cpu usage when I trained the model. I came to the conclusion that hosting containers on azure can be quite expensive, but there are probably better ways to do this.
